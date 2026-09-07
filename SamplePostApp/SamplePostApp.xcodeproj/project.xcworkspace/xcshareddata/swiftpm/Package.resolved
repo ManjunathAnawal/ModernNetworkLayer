@@ -1,0 +1,15 @@
+{
+  "originHash" : "187c0f604f4bdc64c6d74481d1a330797931402919a95bb849e84770efd840f9",
+  "pins" : [
+    {
+      "identity" : "modernnetworklayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ManjunathAnawal/ModernNetworkLayer",
+      "state" : {
+        "revision" : "b1dc0d48f5fb662705e5c3067706b78a64b95533",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
